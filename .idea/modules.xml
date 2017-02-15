@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LLbeans/LLbeans.iml" filepath="$PROJECT_DIR$/LLbeans/LLbeans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testpractice-2017-jan20.iml" filepath="$PROJECT_DIR$/Testpractice-2017-jan20.iml" />
+    </modules>
+  </component>
+</project>

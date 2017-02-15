@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="LLbeans" parallel="tests">
+
+    <parameter name="useCloudEnv" value="false"/>
+    <parameter name="userName" value="Ahoura21"/>
+    <parameter name="accessKey" value="b15d6ab5-5c52-4b92-beb2-51b18a2baac9"/>
+    <parameter name="os" value="Mac"/>
+    <parameter name="browserName" value="chrome"/>
+    <parameter name="browserVersion" value="50.0"/>
+    <parameter name="url" value="https://www.llbean.com"/>
+
+    <test name = "llbean ADHOC">
+        <classes>
+            <class name="TestHome.TestCheckOut"/>
+            <!--class name="TestHome.DropDownTest"/-->
+            <!--class name="TestHome.TestLogin"/-->
+            <!--class name="TestHome.TestSearchDataProvider"/-->
+            <!--class name="TestHome.TestWithExcel"/-->
+
+        </classes>
+    </test>
+
+</suite>
+
